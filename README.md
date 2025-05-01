@@ -1,7 +1,7 @@
 # 10ThemeFor11
 
 > [!NOTE]  
-> This theme is about 75% complete. To track its progress, check the ["Theme Progress"](https://github.com/SandTechStuff/10ThemeFor11/issues/1) issue.
+> This theme is about 90% complete. To track its progress, check the ["Theme Progress"](https://github.com/SandTechStuff/10ThemeFor11/issues/1) issue.
 > When most assets are completed, a proper theme will be provided in releases.
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SandTechStuff/10ThemeFor11/total)
