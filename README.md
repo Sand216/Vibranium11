@@ -1,7 +1,6 @@
 # Vibranium11
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Sand216/Vibranium11/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/Sand216/Vibranium11)
 
 Vibranium11 is an `.msstyles` theme for Windows 11 that aims to provide accurate Windows 10 controls, to the greatest extent that Windows 11 allows.
 
